@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Javi</h1>
-<h3 align="center">Soy Desarrollador Web. Me apasiona crear interfaces funcionales, que permitan al usuario la mejor experiencia de navegación. Pero también me encanta el reto de enfrentarme al backend. Todo problema sin resolver es una oportunidad de aprender a cómo resolverlo.</h3>
+<h3 align="center">Soy Desarrollador Web. Me apasiona crear interfaces funcionales, que ofrezcan al usuario la mejor experiencia de navegación. Pero también me encanta el reto de enfrentarme al backend. Todo problema sin resolver es una oportunidad de aprender a cómo resolverlo.</h3>
 
 <ul>
   <li> 🌱Actualmente estoy aprendiendo **Java 8 y Spring Boot**</li>
