@@ -2,8 +2,8 @@
 <h3 align="center">Soy Desarrollador Web. Me apasiona crear interfaces funcionales, que permitan al usuario la mejor experiencia de navegación. Pero también me encanta el reto de enfrentarme al backend. Todo problema sin resolver es una oportunidad de aprender a cómo resolverlo.</h3>
 
 <ul>
-  <li>- 🌱Actualmente estoy aprendiendo **Java 8 y Spring Boot**</li>
-  <li>- 💬 Puedes preguntarme sobre **HTML, CSS, JavaScript**</li>
+  <li> 🌱Actualmente estoy aprendiendo **Java 8 y Spring Boot**</li>
+  <li> 💬 Puedes preguntarme sobre **HTML, CSS, JavaScript**</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
